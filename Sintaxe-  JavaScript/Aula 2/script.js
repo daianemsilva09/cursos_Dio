@@ -1,2 +1,2 @@
 //Tipos Variaveis
-c = 0;
+c = 0;     
